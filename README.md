@@ -16,6 +16,11 @@ Sistema avanzado de segmentación de prendas en tiempo real con modelado 3D inte
 * **3D:** PyVista & PyVistaQt
 * **Visión:** OpenCV & Albumentations
 
+## 🧠 Modelo Pre-entrenado
+
+Para utilizar la segmentación, descarga el modelo y colócalo en la carpeta raíz del proyecto:
+* **[Descargar best_model_mejorado.pth](https://drive.google.com/file/d/1ca3oewDWoXFFRxhnJkD506YYdFEAPvr7/view?usp=sharing)**
+
 ## 📦 Instalación
 
 1. Clonar el repositorio:
